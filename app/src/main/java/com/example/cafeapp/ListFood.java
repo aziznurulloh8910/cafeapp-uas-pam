@@ -24,7 +24,7 @@ public class ListFood{
 
     public static ArrayList<Food> getData(Context context) {
         ArrayList<Food> list = new ArrayList<Food>();
-        list.add(new Food("Kopi Hitam", "Kopi hitam tidak hanya nikmati untuk dikonsumsi, tapi juga memliliki sejumlah manfaat bagi kesehatan manusia. Salah satunya menjaga organ hati.", "Rp. 10.000", context.getDrawable(R.drawable.kopi_hitam)));
+        list.add(new Food("Kopi Hitam", "Kopi hitam ternyata memiliki segudang manfaat untuk tubuh jika dikonsumsi sebagaimana mestinya. Bermanfaat untuk kesehatan karena kopi mengandung antioksidan dan nutrisi.", "Rp. 10.000", context.getDrawable(R.drawable.kopi_hitam)));
         list.add(new Food("Cheese Cake", "Cheese cake adalah makanan ringan yang bertekstur lembut dan identik dengan cita rasanya yang lezat, gurih dan manis. Dijamin, Anda akan ketagihan saat memakannya. Cheese cake awalnya sangat populer di negara Jepang. Dan seiring perkembangan zaman jenis kue ini mulai merambah luas dan dinikmati oleh banyak orang di berbagai negara.", "Rp. 25.000", context.getDrawable(R.drawable.cheesecake)));
         list.add(new Food("Cappuccino", "Cappuccino adalah kopi yang paling banyak disukai. Menurut pakar kesehatan, secangkir kopi cappucino dapat membantu mengatasi kolesterol dan mencegah beberapa masalah yang berhubungan dengan jantung. Cappuccino juga efektif melawan penyakit kardiovaskular seperti stroke.", "Rp. 15.000", context.getDrawable(R.drawable.cappuchino)));
         list.add(new Food("Cireng","Cireng adalah jenis makanan ringan yang berasal dari daerah Sunda. Cireng ini dibuat dengan cara menggoreng campuran adonan yang bahan utamanya adalah tepung kanji atau tepung tapioka.", "Rp. 5.000", context.getDrawable(R.drawable.cireng)));
