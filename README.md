@@ -7,7 +7,9 @@ NIM : 1197050023
 
 Kelas : E
 
-## Tampilan Sigin dan Register
+Berikut adalah output atau tampilan aplikasinya
+
+## Tampilan Singin dan Register
 <p float="left">
   <img src="https://user-images.githubusercontent.com/65340303/148314280-d7fc910c-a7d6-4a14-85ec-87c683272f6c.jpeg" width="250" height="490">
   <img src="https://user-images.githubusercontent.com/65340303/148316985-581c0488-d158-4163-bb77-1c32e4eef5af.jpeg" width="250" height="490">
