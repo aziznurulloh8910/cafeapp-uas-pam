@@ -16,11 +16,11 @@ Berikut adalah output atau tampilan aplikasinya
 </p>
 
 
-## Tamilan Menu
+## Tampilan Menu
 <p float="left">
   <img src="https://user-images.githubusercontent.com/65340303/148317169-8c00c75a-6011-4cf1-a044-122e2fe429c8.jpeg" width="250" height="490">
   <img src="https://user-images.githubusercontent.com/65340303/148317248-84fc6640-90e5-4ab8-90b1-8c7213582365.jpeg" width="250" height="490">
 </p>
 
-## Tamilan Detail Menu
+## Tampilan Detail Menu
 <img src="https://user-images.githubusercontent.com/65340303/148317350-a6b38ada-aaff-4947-91dd-7649460bf09b.jpeg" width="250" height="490">
